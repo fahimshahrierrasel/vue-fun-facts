@@ -1,0 +1,63 @@
+.background-1 {
+  background-image: linear-gradient( 135deg, #FFF6B7 10%, #F6416C 100%);
+}
+
+.background-2 {
+  background-image: linear-gradient( 135deg, #F97794 10%, #623AA2 100%);
+}
+
+.background-3 {
+  background-image: linear-gradient( 135deg, #FCCF31 10%, #F55555 100%);
+}
+
+.background-4 {
+  background-image: linear-gradient( 135deg, #5EFCE8 10%, #736EFE 100%);
+}
+
+.background-5 {
+  background-image: linear-gradient( 135deg, #FFD26F 10%, #3677FF 100%);
+}
+
+.background-6 {
+  background-image: linear-gradient( 135deg, #92FFC0 10%, #002661 100%);
+}
+
+.background-7 {
+  background-image: linear-gradient( 135deg, #F6CEEC 10%, #D939CD 100%);
+}
+
+.background-8 {
+  background-image: linear-gradient( 135deg, #79F1A4 10%, #0E5CAD 100%);
+}
+
+.background-9 {
+  background-image: linear-gradient( 135deg, #FFA8A8 10%, #FCFF00 100%);
+}
+
+.background-10 {
+  background-image: linear-gradient( 135deg, #52E5E7 10%, #130CB7 100%);
+}
+
+#app {
+  width: 100%;
+  height: 100%
+}
+
+#fact-button {
+  position: fixed;
+  display: block;
+  bottom: 10%;
+  left: 50%;
+  margin-left: -100px;
+  z-index: 900;
+}
+
+.did-know{
+  margin-left: 20px;
+}
+
+.fact-viewer {
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+}
